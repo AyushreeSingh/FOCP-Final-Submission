@@ -1,0 +1,14 @@
+{
+    
+    "health":["Counseling services are available by appointment, {name}."],
+    "career":["Did you know, {name}, that we have a unique internship program where students can work on real-world projects with faculty members? It's a great way to gain hands-on experience!"],
+    "sports":["Join us for 'Fitness Fridays' where we host fun challenges and giveaways to keep you motivated!"],
+    "events":["Check out the events calendar on our website, {name}."],
+    "parking":["We offer free parking for our Students, {name}."],
+    "library":["The library is open 24/7 for students, {name}."],
+    "Trip": ["Interested in outdoor adventures? Our hiking club organizes trips every semester!"],
+    "Cafe": ["The Cafe is open from 8 AM to 6 PM, {name}."],
+    "admissions":["Admissions can be reached at admissions@poppleton.edu."],
+    "fees":[ "Fees vary by course. Visit the finance section of our website, {name}."]
+    
+}

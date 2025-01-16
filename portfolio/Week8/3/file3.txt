@@ -1,0 +1,7 @@
+This is a sample text file.
+It contains multiple lines of text.
+The purpose of this file is to test the grep command.
+Searching for specific patterns can be very useful.
+This line does not contain the keyword.
+Another sample line with the word sample.
+Yet another line that is just for testing.
